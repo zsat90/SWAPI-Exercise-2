@@ -29,9 +29,9 @@ This repository contains a backend project built using Express and Axios to inte
 
 4. Endpoints:
 
-        People: /api/people
-        Planets: /api/planets
-        Films: /api/films
+        People: /people
+        Planets: /planets
+        Films: /films
 
 5. Testing Endpoints: 
 
