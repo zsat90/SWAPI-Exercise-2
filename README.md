@@ -32,7 +32,8 @@ This repository contains a backend project built using Express and Axios to inte
         People: /people
         Planets: /planets
         Films: /films
+        Sort: /people?sortBy=(name, height, mass)
 
-5. Testing Endpoints: 
+6. Testing Endpoints: 
 
-   You can use the included .rest file to test the endpoints using Visual Studio Code’s REST Client extension. Alternatively, you can use tools like curl or Postman.
+   You can use the included .rest file to test the endpoints using Visual Studio Code’s REST Client extension. Alternatively, you can use tools like curl or Postman. 
